@@ -1,8 +1,25 @@
-# React + Vite
+This project is a classic Tic Tac Toe game built using React. It features a simple and interactive user interface where two players (X and O) can play against each other. It includes score tracking, winner notifications, and a reset option. The game uses react-toastify for elegant toast notifications to declare the game results (win or draw).
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Table of Contents
+Demo
+Features
+Technologies
+Installation
+How to Play
+Contributing
+License
+Demo
+You can view a live demo of the game here.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+Two-player game (X and O)
+Displays toast notifications for winning players or draw
+Keeps track of the score for both players
+Allows game reset
+Responsive design
+Technologies
+React: JavaScript library for building user interfaces
+react-toastify: A library for toast notifications in React
+CSS: For styling the game board
+HTML5: Markup for the game structure
+JavaScript (ES6+): Logic and interaction of the game
